@@ -1,0 +1,17 @@
+for Mac:
+if virtual environment is not installed use follwing command to install virtual env:
+
+  pip install virtualenv
+
+for Python3, use following command to use in specific project:
+
+  python3 -m venv venvname
+  
+to Activate venv use following command:
+  
+  source env/bin/activate
+ 
+to Deactivate, use following command:
+  
+  deactivate
+  
